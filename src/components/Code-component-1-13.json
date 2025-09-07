@@ -1,0 +1,9 @@
+{
+  "navigationItems": [
+    { "id": "hero", "label": "Главная" },
+    { "id": "projects", "label": "Проекты" },
+    { "id": "technologies", "label": "Технологии" },
+    { "id": "design", "label": "Дизайн" },
+    { "id": "qualities", "label": "О себе" }
+  ]
+}
